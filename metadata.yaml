@@ -1,0 +1,32 @@
+_repo: The-Golden-Amazons-of-Venus_32544
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32544-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reynolds, John Murray
+    birthdate: 1901
+    deathdate: 1993
+    gutenberg_agent_id: '35909'
+    url: http://www.gutenberg.org/2009/agents/35909
+description: The Golden Amazons of Venus appeared in the Winter 1939 issue of Planet
+  Stories. Dakta death, horrible beyond the weirdest fever-dreams of Earth-men, faced
+  Space Ship Commander Gerry Norton. The laconic interplanetary explorer knew too
+  much. He stood in the dynamic path of Lansa, Lord of the Scaly Ones, the crafty
+  monster bent on conquering the fair City of Larr and all the rich, shadowless lands
+  of the glorious Amazons of Venus.
+gutenberg_issued: '2010-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32544'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Golden Amazons of Venus
+url: http://www.gutenberg.org/ebooks/32544
